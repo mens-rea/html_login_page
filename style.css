@@ -1,0 +1,31 @@
+.chat{
+    border: 1px solid #f5f5f5; 
+    margin-bottom: 10px;
+    height: 100px;
+    width: 90%;
+    padding: 10px;
+    overflow-y: scroll;
+}
+.tfield{
+    width: 50%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #f5f5f5;
+}
+.chat-container{
+    box-shadow: 1px 5px 10px 1px #2e2e2e;
+    background-color: #c4c5ff;
+    width: fit-content;
+    margin: 5% auto;
+    padding: 30px 50px;
+}
+button{
+    width: 40%;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #afba78;
+    color: white;
+}
